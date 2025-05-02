@@ -6,3 +6,6 @@ A ideia é ter o versionamneto de forma clara e objetiva
 
 
 Depois iremos fazer um push no dev
+
+Até la isso continua em desenvolvimento 
+
