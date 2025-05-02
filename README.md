@@ -9,3 +9,6 @@ Depois iremos fazer um push no dev
 
 Até la isso continua em desenvolvimento 
 
+
+Logos apos teremos a aula no Power BI, por enquanto é somente entendimento.
+
